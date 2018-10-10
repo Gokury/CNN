@@ -1,15 +1,13 @@
 # CNN
 Evolution of CNN algorithm 
 
-What are the differences between the CNN and the ANN? Is the CNN applied to image
-classification only?
+
 
 ANN means neural networks in general. So a CNN is a ANN. CNNs are not only used for Image Processing,
 they can also be applied to Text like Text Comprehension.
 Down to how much the image size will be reduced for the feature detector?
 In the practical section it will be reduced down to 64 by 64 dimensions.
 
-What is the purpose of the feature maps?
 
 We are building feature maps with each convolutional filter, meaning we are making features that help us
 classify the object. The example shown in the Intuition Lecture is like a one-dimensional edge detection
